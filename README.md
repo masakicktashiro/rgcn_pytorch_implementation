@@ -2,9 +2,7 @@
 pytorch-based implementation of Relational Graph Convolutional Networks for semi-supervised node classification on (directed) relational graphs.
 it is pytroch version of [https://github.com/tkipf/relational-gcn](https://github.com/tkipf/relational-gcn)
 
-## Installation
 
-```python setup.py install```
 
 ## Dependencies
 
@@ -21,8 +19,6 @@ it is pytroch version of [https://github.com/tkipf/relational-gcn](https://githu
 
 
 ## Cite 
-
-Please cite our paper if you use this code in your own work:
 
 ```
 @article{schlichtkrull2017modeling,
